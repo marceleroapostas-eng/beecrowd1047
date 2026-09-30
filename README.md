@@ -1,8 +1,8 @@
-\# Beecrowd 1047 - Tempo de Jogo com Minutos
+# Beecrowd 1047 - Tempo de Jogo com Minutos
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1047 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém quatro valores inteiros que representam a hora e o minuto de i
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,11 +38,11 @@ O programa apresenta a duração do jogo no formato:
 
 
 
-\*\*O JOGO DUROU X HORA(S) E Y MINUTO(S)\*\*
+**O JOGO DUROU X HORA(S) E Y MINUTO(S)**
 
 
 
-\## Autor
+## Autor
 
 
 
